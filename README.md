@@ -1,2 +1,2 @@
 # crud-ajax-laravel
-Membuat Tombol Login dan Data
+Membuat Data Pegawai Nama Dan Email
